@@ -1,2 +1,7 @@
-#wrap1 {display: block;}
-#bd div.yui-g {margin: 2em;}
+#wrap1 {
+    display: block;
+}
+
+#bd div.yui-g {
+    margin: 2em;
+}
