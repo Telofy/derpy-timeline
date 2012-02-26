@@ -32,9 +32,14 @@ var timeline_data = {
              'title': 'Movers',
              'description': 'Feeling Pinkie Keen airs and… Oh, poor Twilight!'
          }, {
+             'start': '2011-03-01',
+             'durationEvent': false,
+             'title': 'First Derpy Day',
+             'description': 'Muffins!'
+         }, {
              'start': '2011-10-24',
              'durationEvent': false,
-             'title': 'Deryp Bit',
+             'title': 'Derpy Bit',
              'description': 'Jayson Thiessen mentions on BroNYCon that there would be a “Derpy bit” in season two.'
          }, {
              'start': '2011-11-01',
@@ -61,6 +66,11 @@ var timeline_data = {
              'durationEvent': false,
              'title': 'Abduction',
              'description': 'The censored version of The Last Roundup appears on iTunes.'
+         }, {
+             'start': '2012-03-01',
+             'durationEvent': false,
+             'title': 'Second Derpy Day',
+             'description': 'Muffins!'
          }
     ]
 }
